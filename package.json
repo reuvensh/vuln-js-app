@@ -1,10 +1,10 @@
 {
-    "name": "cve-2017-15010",
+    "name": "cve-2017-1000048",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "dependencies": {
-        "tough-cookie": null
+        "qs": "4.0.0"
     },
     "devDependencies": {},
     "scripts": {
